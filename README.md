@@ -57,10 +57,7 @@ Este repositório contém exemplos práticos de como criar tabelas personalizada
 
 Quer trocar ideia, sugerir melhorias ou apenas bater um papo sobre dados?
 
-📧 [seu.email@exemplo.com]  
-🔗 [linkedin.com/in/ericvieira](https://linkedin.com/in/ericvieira)
-
----
+https://www.linkedin.com/in/ericvieiradf/
 
 ## 📄 Licença
 
